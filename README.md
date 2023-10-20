@@ -22,4 +22,5 @@ Run the following command to install Chocolatey:
     k9s
 ---
 This will open the K9s interface in your terminal.
+
 6. Using K9s: You can navigate through your Kubernetes cluster using K9s. It provides an interactive interface with various features for viewing and managing your resources.
